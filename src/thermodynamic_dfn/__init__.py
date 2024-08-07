@@ -6,7 +6,8 @@ thermodynamic-dfn: A battery modelling project that implements the DFN model in 
 __version__ = "0.1.0"
 
 import pybamm
-from .entry_point import Model, parameter_sets, models
+
+from .entry_point import Model, models, parameter_sets
 
 __all__ = [
     "__version__",

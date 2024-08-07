@@ -1,8 +1,8 @@
-import pytest
-import thermodynamic_dfn
 import importlib.util
 import sys
 from pathlib import Path
+
+import thermodynamic_dfn
 
 
 def test_parameter_sets_entry_points():
