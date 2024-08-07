@@ -1,0 +1,17 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 3d528b9
+_src_path: https://github.com/pybamm-team/pybamm-cookiecutter.git
+backend: hatch
+branch: main
+email: Ferran.Brosa-Planella@warwick.ac.uk
+full_name: Ferran Brosa Planella
+license: BSD-3-Clause
+mypy: false
+org: mmsg-warwick
+platform: github
+project_name: thermodynamic-dfn
+project_short_description: A battery modelling project that implements the DFN model
+    in a thermodynamically consistent framework.
+project_slug: thermodynamic_dfn
+url: https://github.com/mmsg-warwick/thermodynamic-dfn
+vcs: false
