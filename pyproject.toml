@@ -119,5 +119,5 @@ ignore = [
   "PLR2004",     # Magic value used in comparison
 ]
 line-length = 100
-exclude = []
+exclude = ["__init__.py"]
 flake8-unused-arguments.ignore-variadic-names = true
